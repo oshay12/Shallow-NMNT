@@ -6,7 +6,6 @@ Owen Shay
 
 x2020gft@stfx.ca
 
-CSCI444: Machine Learning
 
 ## Summary
 
